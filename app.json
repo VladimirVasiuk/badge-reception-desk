@@ -1,0 +1,15 @@
+{
+  "name": "badge-reception-desk",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
